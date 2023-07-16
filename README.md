@@ -1,5 +1,5 @@
 # 💫 Sobre Min:
-Meu nome é Cicero Lucas, sou estudante de Analise e desenvolvimento de sistemastenho experiencia em desenvolvimento de projetos baseados em Python e Django, possui conhecimento em Front-end com HTML, CSS e Java script. Pretendo me tornar desenvolvedor focado em Back-end.
+Meu nome é Cicero Lucas, sou estudante de Analise e desenvolvimento de sistemas, tenho experiencia em desenvolvimento de projetos baseados em Python e Django, possui conhecimento em Front-end com HTML, CSS e Java script. Pretendo me tornar desenvolvedor focado em Back-end.
 
 
 ## 🌐 Redes:
